@@ -55,7 +55,7 @@ If a known IP suddenly maps to a different MAC:
 
 Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/arp-spoofing-detector.git
+git clone https://github.com/maanya-bhardwaj/arp-spoofing-detector.git
 cd arp-spoofing-detector
 
 2️⃣ Install dependencies
